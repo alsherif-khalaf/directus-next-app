@@ -1,1 +1,2 @@
-# directus-next-app
+# next-directus
+ Next Js App Router - Directus CMS with authentication
